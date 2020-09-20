@@ -1,2 +1,3 @@
-# ui-automation
-assignment
+# Full Name : HERATH MUDIYANSELSGE ISURU DILSHAN KUMARA HERATH
+# Name with Initials: HMIDK.Herath
+# Student ID No: SE/2016/013
